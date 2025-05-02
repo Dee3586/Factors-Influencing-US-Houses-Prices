@@ -1,6 +1,7 @@
 # README: Factors Influencing US House Prices Analysis
 
-![Image](https://github.com/user-attachments/assets/e946c659-b0b1-4e50-8a61-358c55f5aee6)
+![Image](https://github.com/user-attachments/assets/e946c659-b0b1-4e50-8a61-358c55f5aee6)   ![175929181-c0cac550-caba-4313-b257-50b69d5060c8](https://github.com/user-attachments/assets/395c90c6-1b7c-4ef3-a385-a62863c06ae1)
+
 
 ## Project Overview
 This Excel-based project investigates the most significant economic and demographic factors that influence house prices in the United States. Using 240 data points, regression analysis, correlation functions, pivot tables, and Excel visualizations, we identify which variables most strongly affect the U.S. housing market.
