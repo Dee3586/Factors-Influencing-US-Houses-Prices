@@ -151,3 +151,4 @@ Coefficients:
 ---
 
 Project completed entirely in Microsoft Excel using native statistical tools and visualization features.
+I am looking to collaborate on projects related to Data Analysis. You can reach me via my email: dammythompson23@gmail.com
