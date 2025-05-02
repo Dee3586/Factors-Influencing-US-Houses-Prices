@@ -1,6 +1,7 @@
 # README: Factors Influencing US House Prices Analysis
 
-![Image](https://github.com/user-attachments/assets/e946c659-b0b1-4e50-8a61-358c55f5aee6)   
+![Image](https://github.com/user-attachments/assets/e946c659-b0b1-4e50-8a61-358c55f5aee6)    ![1475831179315 jpg--tipperary_house_prices](https://github.com/user-attachments/assets/a1227bed-8124-424f-893d-d1f80f29b5b6)
+
 
 
 ## Project Overview
