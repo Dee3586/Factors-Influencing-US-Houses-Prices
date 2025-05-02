@@ -1,6 +1,6 @@
 # README: Factors Influencing US House Prices Analysis
 
-![Image](https://github.com/user-attachments/assets/e946c659-b0b1-4e50-8a61-358c55f5aee6)   ![175929181-c0cac550-caba-4313-b257-50b69d5060c8](https://github.com/user-attachments/assets/395c90c6-1b7c-4ef3-a385-a62863c06ae1)
+![Image](https://github.com/user-attachments/assets/e946c659-b0b1-4e50-8a61-358c55f5aee6)    ![175929181-c0cac550-caba-4313-b257-50b69d5060c8](https://github.com/user-attachments/assets/7135fbc9-2141-4cb0-a8dd-e52ad42baf3d)
 
 
 ## Project Overview
